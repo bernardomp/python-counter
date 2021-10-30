@@ -1,6 +1,7 @@
 import hug
 
-@hug.get('/happy_birthday')
+print("ssss")
+
 def happy_birthday():
     """Says happy birthday to a user"""
     return "Hello folks"
